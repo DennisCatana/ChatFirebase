@@ -8,10 +8,10 @@
 ![Descripción de la imagen](fotos/image-2.png)
 5. Debera de tener un proyecto creado en Firebase con todo lo necesario.<br>
 ![Descripción de la imagen](fotos/firebase.png)
-6. Se debera de poner sus credenciales en de firebase en los siguientes archivos.
+6. Se debera de poner sus credenciales en de firebase en los siguientes archivos los cuales estan en la ruta src/environments.
  - environment.ts <br>
-
+![alt text](fotos/env.png)
  - environment.prod.ts<br>
- 
+![alt text](fotos/envprod.png)
 4. Al ingresar al usuario se le mostrara la siguiente pantalla. <br>
 ![Descripción de la imagen](fotos/image.png)
