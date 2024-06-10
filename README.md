@@ -13,5 +13,5 @@
 ![alt text](fotos/env.png)
  - environment.prod.ts<br>
 ![alt text](fotos/envprod.png)
-4. Al ingresar al usuario se le mostrara la siguiente pantalla. <br>
+7. Una vez realizada esta confihuraciones el usuario ejecutara el comando *ionic serve* y esperara a que en un navegadorse le muestre la siguiente pantalla. <br>
 ![Descripción de la imagen](fotos/image.png)
